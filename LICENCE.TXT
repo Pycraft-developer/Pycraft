@@ -1,0 +1,16 @@
+Copyright (c) 2026 Your Name
+
+Permission is granted to copy, distribute, and use this software in unmodified form only. Modification, adaptation, translation,
+creation of derivative works, reverse engineering, decompilation, or any form of alteration is NOT permitted.
+
+Commercial use is NOT permitted.
+
+If you publish, redistribute, or otherwise make this work publicly available (including on websites, app stores, or repositories), 
+you must give clear credit to the original author as follows:
+
+Credit required: "Pycraft — Copyright (c) 2026 Pycraft Developer — used under license"
+
+This credit must appear in any public listing, description, or documentation accompanying the published work.
+
+This software is provided "AS IS", without warranty of any kind, express or implied. In no event shall the author be liable for any claim, 
+damages or other liability arising from the use of this software.
